@@ -17,4 +17,5 @@ and HCL. An example `.iric.yaml` file is shown below.
 
 ```yaml
 node: http://nodes.iota.fm:80
-timeout: 3s```
+timeout: 3s
+```
